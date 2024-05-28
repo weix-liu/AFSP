@@ -44,3 +44,14 @@ and SFOD model test:
 CUDA_VISIBLE_DEVICES=$GPU_ID \
 python test_SF_mt_afsp.py --dataset ucas_car --net res101 --cuda --load_name training/SF/res101/gta_car/SF_mt_afsp_target_ucas_car_1_7_1019.pth
 ```
+## Citation
+This work is submitted to GSIS:<br>
+Liu W, Liu J, Su X, Nie H, Luo B. Multi-level Domain Perturbation for Source-free Object Detection in Remote Sensing Images. Geo-spatial Information Science, 2024.<br>
+<br>
+The arXiv preprint version:<br>
+@article{liu2024source,<br>
+  title={Source-free Domain Adaptive Object Detection in Remote Sensing Images},<br>
+  author={Liu, Weixing and Liu, Jun and Su, Xin and Nie, Han and Luo, Bin},<br>
+  journal={arXiv preprint arXiv:2401.17916},<br>
+  year={2024}<br>
+}<br>
