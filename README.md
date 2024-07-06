@@ -16,7 +16,7 @@ If you want to use this code on your own dataset, please arrange the dataset in 
 ## Models
 ### Pre-trained Models
 In our experiments, we used two pre-trained models on ImageNet, i.e., VGG16 and ResNet101. Please download these two models from:
-* **VGG16 and ResNet101:** [Google Drive](https://drive.google.com/file/d/1KyZZi_GQq6x6PqO-3MKPC1OB5VlBIQx8/view?usp=sharing)
+* **VGG16:** [Google Drive](https://drive.google.com/file/d/1KyZZi_GQq6x6PqO-3MKPC1OB5VlBIQx8/view?usp=sharing)
 * **ResNet101:** [Google Drive](https://drive.google.com/file/d/1UuoXgslnA4Y-ZoyW0d2jViTkRl6HnHIC/view?usp=sharing)
 
 Download them and write the path in **__C.VGG_PATH** and **__C.RESNET_PATH** at ```lib/model/utils/config.py```.
