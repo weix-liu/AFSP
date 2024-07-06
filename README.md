@@ -16,9 +16,8 @@ If you want to use this code on your own dataset, please arrange the dataset in 
 ## Models
 ### Pre-trained Models
 In our experiments, we used two pre-trained models on ImageNet, i.e., VGG16 and ResNet101. Please download these two models from:
-* **VGG16:** [Dropbox](https://www.dropbox.com/s/s3brpk0bdq60nyb/vgg16_caffe.pth?dl=0)  [VT Server](https://filebox.ece.vt.edu/~jw2yang/faster-rcnn/pretrained-base-models/vgg16_caffe.pth)
-
-* **ResNet101:** [Dropbox](https://www.dropbox.com/s/iev3tkbz5wyyuz9/resnet101_caffe.pth?dl=0)  [VT Server](https://filebox.ece.vt.edu/~jw2yang/faster-rcnn/pretrained-base-models/resnet101_caffe.pth)
+* **VGG16 and ResNet101:** [Google Drive](https://drive.google.com/file/d/1KyZZi_GQq6x6PqO-3MKPC1OB5VlBIQx8/view?usp=sharing)
+* **ResNet101:** [Google Drive](https://drive.google.com/file/d/1UuoXgslnA4Y-ZoyW0d2jViTkRl6HnHIC/view?usp=sharing)
 
 Download them and write the path in **__C.VGG_PATH** and **__C.RESNET_PATH** at ```lib/model/utils/config.py```.
 
