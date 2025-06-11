@@ -44,7 +44,7 @@ CUDA_VISIBLE_DEVICES=$GPU_ID \
 python test_SF_mt_afsp.py --dataset ucas_car --net res101 --cuda --load_name training/SF/res101/gta_car/SF_mt_afsp_target_ucas_car_1_7_1019.pth
 ```
 ## Citation
-This work is submitted to GSIS:<br>
+<br>
 Liu W, Liu J, Su X, Nie H, Luo B. Multi-level Domain Perturbation for Source-free Object Detection in Remote Sensing Images. Geo-spatial Information Science, 2024.<br>
 <br>
 The arXiv preprint version:<br>
